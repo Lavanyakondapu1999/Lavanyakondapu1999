@@ -44,4 +44,4 @@ Agentic AI, LangGraph, LLM evaluation, AI system design, and production-ready Ge
 
 ## 🔗 Connect With Me
 
-- Portfolio: https://my-portfolio-brown-psi-40.vercel.app/#home
+
