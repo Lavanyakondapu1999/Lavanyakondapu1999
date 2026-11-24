@@ -1,47 +1,58 @@
-# Hi, I'm Lavanya Kondapu 👋
+<h1 align="center">👋 Hey! Nice to see you.</h1>
 
-### Data Science & AI/ML Professional  
-**Data Analytics | Machine Learning | Generative AI**
+<h2 align="center">I'm Lavanya Kondapu 👩‍💻</h2>
 
-I build data-driven and AI-powered solutions using Python, SQL, machine learning, NLP, and Generative AI.
+<p align="center">
+  Data Science | Data Analytics | AI/ML | Generative AI
+</p>
 
-## 👩‍💻 What I work on
+---
 
-- Data cleaning, analysis, and business dashboards
-- Machine learning models for prediction and classification
-- Natural Language Processing and deep learning projects
-- RAG chatbots, embeddings, vector databases, and LLM applications
-- REST APIs using Flask and FastAPI
+## 👩‍💻 About Me
 
-## 🛠️ Technical Skills
+I am passionate about using data and AI to solve real-world business problems.  
+I work with Python, SQL, Machine Learning, Data Analytics, NLP, and Generative AI.
 
-**Programming & Data**  
-Python, SQL, Pandas, NumPy, Excel
+## 🚀 I have technical experience and interest in:
 
-**Data Analytics & BI**  
-Power BI, Power Query, DAX, Data Cleaning, Data Visualization
+- Data Analysis and Data Visualization
+- Python and SQL
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Generative AI and LLMs
+- RAG, Embeddings, and Vector Databases
+- Power BI Dashboards
+- Flask and FastAPI
 
-**Machine Learning & AI**  
-Scikit-learn, XGBoost, TensorFlow, Keras, NLP, Deep Learning
+## 🛠️ Languages and Tools
 
-**Generative AI**  
-LangChain, RAG, OpenAI APIs, Embeddings, Qdrant, Vector Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,flask,fastapi,git,github,aws" />
+</p>
 
-**Backend & Tools**  
-Flask, FastAPI, Git, GitHub, AWS
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-- **AI Chatbot with RAG** — Context-aware document chatbot using LangChain, embeddings, and LLMs.
-- **Resume Matching System** — Semantic resume-to-job-description matching using multilingual embeddings and Qdrant.
-- **Hospital Readmission Prediction** — ML model and Power BI dashboard to identify high-risk patients.
+- **AI Chatbot with RAG** — A document-based chatbot built with LangChain, embeddings, and LLMs.
+- **Resume Matching System** — Matches resumes to job descriptions using multilingual embeddings and Qdrant.
+- **Hospital Readmission Prediction** — Predicts high-risk patient readmissions using Machine Learning and Power BI.
 - **Pharma Sales Analytics** — Interactive Power BI dashboard for sales, inventory, and supplier insights.
-- **Fake News Detection** — NLP-based classification project using machine learning.
+- **Fake News Detection** — NLP classification project using Machine Learning.
 
 ## 🌱 Currently Learning
 
-Agentic AI, LangGraph, LLM evaluation, AI system design, and production-ready GenAI applications.
+- Agentic AI and LangGraph  
+- LLM evaluation and AI system design  
+- Production-ready RAG applications  
 
 ## 🔗 Connect With Me
 
-
+🌐 Portfolio: [my-portfolio-brown-psi-40.vercel.app](https://my-portfolio-brown-psi-40.vercel.app/#home)
